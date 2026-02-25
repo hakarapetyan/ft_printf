@@ -34,3 +34,10 @@ va_start: Initializes the argument list.
 va_arg: Retrieves the next argument in the list based on a specific type.
 
 va_end: Cleans up the memory used by the argument list.
+
+### 📦 Instructions
+Compilation
+To compile the library:
+```bash
+make
+```
