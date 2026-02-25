@@ -1,11 +1,11 @@
-🖨️ ft_printf – Implementation of printf
+# 🖨️ ft_printf – Implementation of printf
 
-📖 Project Overview
+### 📖 Project Overview
 The ft_printf project is a reimagining of the standard printf function. The goal is to create a function that can print different types of data—such as text, integers, and memory addresses—all through a single command.
 
 This project introduces Variadic Functions, which are special functions that can take any number of arguments. This makes the code very flexible and useful for debugging other programs.
 
-🛠️ Project Details & Conversions
+### 🛠️ Project Details & Conversions
 
 Specifier,What it does in my version
 
@@ -23,7 +23,7 @@ Specifier,What it does in my version
 
 %%,Simply prints a literal percent sign.
 
-🚀 Key Technical Concepts
+### 🚀 Key Technical Concepts
 Variadic Functions
 The core of this project is the use of variadic arguments. This allows ft_printf to accept any number of inputs after the format string.
 
