@@ -1,4 +1,4 @@
-ft_printf – Implementation of printf
+🖨️ ft_printf – Implementation of printf
 
 📖 Project Overview
 The ft_printf project is a reimagining of the standard printf function. The goal is to create a function that can print different types of data—such as text, integers, and memory addresses—all through a single command.
